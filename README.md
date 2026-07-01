@@ -1,8 +1,8 @@
 # Perda da Certificação de Erradicação do Sarampo em 2019
 Banco de dados relacional (MySQL)  voltado para a análise de saúde pública. O sistema cruza dados de notificações de Sarampo, índices de cobertura vacinal e o fluxo de imigração por município e ano. O objetivo principal é fornecer inteligência de dados para identificar correlações entre vulnerabilidade vacinal, movimentação migratória, para  chegar na causa raiz do porquê da perda da Certificação de Erradicação do Sarampo em 2019.
+Os dados irão vir do DATASUS  Tecnologia da Informação a Serviço do SUS e https://www.datamigra.unb.br
 
 ## 🚀 Funcionalidades e Análises Suportadas
-
 O modelo de dados foi planejado para responder a perguntas críticas de saúde pública, tais como:
 *   **Análise de Vulnerabilidade:** Identificar se municípios que não atingiram as metas de vacinação registraram um aumento subsequente no número de casos notificados.
 *   **Impacto Migratório:** Monitorar o volume de imigrantes por país de origem e avaliar sua correlação com o cenário epidemiológico local.
