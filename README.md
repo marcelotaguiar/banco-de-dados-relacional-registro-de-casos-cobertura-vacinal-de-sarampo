@@ -6,8 +6,8 @@ Banco de dados relacional (MySQL)  voltado para a análise de saúde pública. O
 O modelo de dados foi planejado para responder a perguntas críticas de saúde pública, tais como:
 *   **Análise de Vulnerabilidade:** Identificar se municípios que não atingiram as metas de vacinação registraram um aumento subsequente no número de casos notificados.
 *   **Impacto Migratório:** Monitorar o volume de imigrantes por país de origem e avaliar sua correlação com o cenário epidemiológico local.
-*   **Cálculo de Proporção:** Gerar relatórios que calculam automaticamente a taxa de casos notificados por habitante imigrante, prevenindo erros matemáticos (como divisão por zero).
-
+*   **Cálculo de Proporção:** Gerar relatórios que calculam automaticamente a taxa de casos notificados por habitante imigrante.
+   
 ## 📐 Estrutura do Banco de Dados (Modelagem)
 Os requisitos pensandos para iniciar a modelagem de dados:
 •	Coleta de dados de Agravo de Notificação (Comunicação obrigatória de uma doença) FEV2016/FEV2024
